@@ -1,7 +1,9 @@
 #include <stdio.h>
+#include "game.h"
 
 int main(void)
 {
-    printf("Projeto final - em construcao\n");
+    int numero = escolher_numero_secreto();
+    printf("Numero secreto (so para teste): %d\n", numero);
     return 0;
 }
