@@ -1,4 +1,4 @@
-## Sessão 1 - 21/08/2026
+## Sessão nº1 - 21/08/2026
 
 **Funcionalidades implementadas hoje:**
 - Escolhida a ideia do jogo: adivinhar um número, com dicas e mensagens divertidas
