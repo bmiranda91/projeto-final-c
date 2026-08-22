@@ -21,3 +21,20 @@
 
 **Linhas de código escritas hoje (estimativa):**
 - ~15
+
+
+## Sessão 2- 22/08/2026
+
+**Funcionalidades implementadas hoje:**
+- Loop do jogador a tentar adivinhar o número, com dicas "maior/menor" (função jogar em game.c)
+- Testado o jogo várias vezes até acertar
+
+**Maior dificuldade encontrada e como resolvi (ou não resolvi):**
+- Esqueci-me de incluir stdio.h no game.c, dava erro a compilar (printf e scanf não reconhecidos). Resolvido acrescentando o include.
+
+**Próximo passo planeado:**
+- Acrescentar frases divertidas nas dicas, contar tentativas e mensagem final
+- Perceber o que posso acrescentar mais para enriquecer o jogo
+
+**Linhas de código escritas hoje (estimativa):**
+- ~20
